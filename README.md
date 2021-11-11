@@ -8,24 +8,20 @@
     <img align="right" src="https://upload.wikimedia.org/wikipedia/en/7/79/University_of_Chicago_shield.svg" alt="uchicago" width="100" height="100"/>
 </a>
 
-
 <h2 align="left">CS PhD Student at The University of Chicago</h2>
 <h3 align="left">Research Interests: <br /> High Performance Computing, Distributed Systems, Operating Systems, Storage Systems, Interaction between Systems and Machine Learning</h3>
 
-
 ```cpp
 while (!succeed) {
-    try();                                
+    try();
 }
 ```
-
-
 
 <table>
     <tr>
         <td><h3 align="left">Website</h3></td>
         <td>
-            <a href="https://twitter.com/rayandrew_os" target="blank">
+            <a href="https://rayandrew.me" target="blank">
                 <img align="left" src="https://rayandrew.me/logo-sec.png" alt="rayandrew-web" height="30" width="30" />
             </a>
             <a href="https://computerscience.uchicago.edu/people/profile/ray-andrew/" target="_blank" rel="noreferrer">
