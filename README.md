@@ -12,15 +12,6 @@
 <h2 align="left">CS PhD Student at The University of Chicago</h2>
 <h3 align="left">Research Interests: <br /> High Performance Computing, Distributed Systems, Operating Systems, Storage Systems, Interaction between Systems and Machine Learning</h3>
 
-```cpp
-while (!succeed) {
-    try();                                
-}
-```
-
-<table>
-    
-</table>
 
 <a align="right" href="https://twitter.com/rayandrew_os" target="blank">
     <img align="right" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rayandrew_os" height="30" width="40" />
@@ -31,6 +22,13 @@ while (!succeed) {
 <a align="right" href="https://instagram.com/rayandrew.os" target="blank">
     <img align="right" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rayandrew.os" height="30" width="40" />
 </a>
+
+
+```cpp
+while (!succeed) {
+    try();                                
+}
+```
 
 
 
