@@ -2,26 +2,15 @@
 
 
 <a href="https://rayandrew.me">
-    <img align="right" src="https://rayandrew.me/icons/android-icon-192x192.png" alt="rayandrew-logo" width="150" height="150">
+    <img align="right" src="https://rayandrew.me/icons/android-icon-192x192.png" alt="rayandrew-logo" width="100" height="100">
 </a>
 <a href="https://computerscience.uchicago.edu/people/profile/ray-andrew/" target="_blank" rel="noreferrer">
-    <img align="right" src="https://upload.wikimedia.org/wikipedia/en/7/79/University_of_Chicago_shield.svg" alt="uchicago" width="150" height="150"/>
+    <img align="right" src="https://upload.wikimedia.org/wikipedia/en/7/79/University_of_Chicago_shield.svg" alt="uchicago" width="100" height="100"/>
 </a>
 
 
 <h2 align="left">CS PhD Student at The University of Chicago</h2>
 <h3 align="left">Research Interests: <br /> High Performance Computing, Distributed Systems, Operating Systems, Storage Systems, Interaction between Systems and Machine Learning</h3>
-
-
-<a align="right" href="https://twitter.com/rayandrew_os" target="blank">
-    <img align="right" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rayandrew_os" height="30" width="40" />
-</a>
-<a align="right" href="https://fb.com/rayandrew.os" target="blank">
-    <img align="right" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="rayandrew.os" height="30" width="40" />
-</a>
-<a align="right" href="https://instagram.com/rayandrew.os" target="blank">
-    <img align="right" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rayandrew.os" height="30" width="40" />
-</a>
 
 
 ```cpp
@@ -231,9 +220,21 @@ while (!succeed) {
     </a> 
 </p>
 
-<p align="center">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rayandrews&show_icons=true&locale=en&layout=compact&langs_count=8&hide=html,objective-c" alt="rayandrews" />&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rayandrews&count_private=true&show_icons=true&locale=en" alt="rayandrews" />
-</p>
+| <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rayandrews&show_icons=true&locale=en&layout=compact&langs_count=8&hide=html,objective-c" alt="rayandrews" /> | <img align="center" src="https://github-readme-stats.vercel.app/api?username=rayandrews&count_private=true&show_icons=true&locale=en" alt="rayandrews" /> |
+| ------------- | ------------- |
+
+<br />
+<br />
+
+<a align="right" href="https://twitter.com/rayandrew_os" target="blank">
+    <img align="right" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rayandrew_os" height="30" width="40" />
+</a>
+<a align="right" href="https://fb.com/rayandrew.os" target="blank">
+    <img align="right" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="rayandrew.os" height="30" width="40" />
+</a>
+<a align="right" href="https://instagram.com/rayandrew.os" target="blank">
+    <img align="right" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rayandrew.os" height="30" width="40" />
+</a>
 
 <!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rayandrews&count_private=true&show_icons=true&theme=radical&locale=en" alt="rayandrews" /></p> -->
 
