@@ -17,7 +17,7 @@ while (!succeed) {
 }
 ```
 
-<table>
+<!-- <table>
     <tr>
         <td><h3 align="left">Website</h3></td>
         <td>
@@ -208,13 +208,13 @@ while (!succeed) {
                 <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/>
             </a> 
     </tr>
-</table>
+</table> -->
 
-<p align="center">
+<!-- <p align="center">
     <a href="https://github.com/ryo-ma/github-profile-trophy">
         <img src="https://github-profile-trophy.vercel.app/?username=rayandrews&row=1&column=6" alt="rayandrews" />
     </a> 
-</p>
+</p> -->
 
 | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rayandrews&show_icons=true&locale=en&layout=compact&langs_count=8&hide=html,objective-c" alt="rayandrews" /> | <img align="center" src="https://github-readme-stats.vercel.app/api?username=rayandrews&count_private=true&show_icons=true&locale=en" alt="rayandrews" /> |
 | ------------- | ------------- |
