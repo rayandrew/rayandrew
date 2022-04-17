@@ -212,11 +212,11 @@ while (!succeed) {
 
 <!-- <p align="center">
     <a href="https://github.com/ryo-ma/github-profile-trophy">
-        <img src="https://github-profile-trophy.vercel.app/?username=rayandrews&row=1&column=6" alt="rayandrews" />
+        <img src="https://github-profile-trophy.vercel.app/?username=rayandrew&row=1&column=6" alt="rayandrew" />
     </a> 
 </p> -->
 
-| <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rayandrews&show_icons=true&locale=en&layout=compact&langs_count=8&hide=html,objective-c" alt="rayandrews" /> | <img align="center" src="https://github-readme-stats.vercel.app/api?username=rayandrews&count_private=true&show_icons=true&locale=en" alt="rayandrews" /> |
+| <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rayandrew&show_icons=true&locale=en&layout=compact&langs_count=8&hide=html,objective-c" alt="rayandrew" /> | <img align="center" src="https://github-readme-stats.vercel.app/api?username=rayandrew&count_private=true&show_icons=true&locale=en" alt="rayandrew" /> |
 | ------------- | ------------- |
 
 <br />
@@ -232,9 +232,9 @@ while (!succeed) {
     <img align="right" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rayandrew.os" height="30" width="40" />
 </a>
 
-<!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rayandrews&count_private=true&show_icons=true&theme=radical&locale=en" alt="rayandrews" /></p> -->
+<!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rayandrew&count_private=true&show_icons=true&theme=radical&locale=en" alt="rayandrew" /></p> -->
 
-<!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=rayandrews&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="rayandrews" /></p> -->
+<!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=rayandrew&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="rayandrew" /></p> -->
 
-<!-- | <img align="center" src="https://github-readme-stats.vercel.app/api?username=rayandrews&count_private=true&show_icons=true&theme=radical&locale=en&hide_border=true" alt="Anurag's github stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rayandrews&show_icons=true&theme=radical&locale=en&layout=compact&hide_border=true" /> |
+<!-- | <img align="center" src="https://github-readme-stats.vercel.app/api?username=rayandrew&count_private=true&show_icons=true&theme=radical&locale=en&hide_border=true" alt="Anurag's github stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rayandrew&show_icons=true&theme=radical&locale=en&layout=compact&hide_border=true" /> |
 | ------------- | ------------- | -->
