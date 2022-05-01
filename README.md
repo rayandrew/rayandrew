@@ -1,12 +1,12 @@
 <h1 align="left">Hi 👋, I'm Ray Andrew</h1>
 
 
-<a href="https://rayandrew.me">
+<!-- <a href="https://rayandrew.me">
     <img align="right" src="https://rayandrew.me/icons/android-icon-192x192.png" alt="rayandrew-logo" width="100" height="100">
 </a>
 <a href="https://computerscience.uchicago.edu/people/profile/ray-andrew/" target="_blank" rel="noreferrer">
     <img align="right" src="https://upload.wikimedia.org/wikipedia/en/7/79/University_of_Chicago_shield.svg" alt="uchicago" width="100" height="100"/>
-</a>
+</a> -->
 
 <h2 align="left">CS PhD Student at The University of Chicago</h2>
 <h3 align="left">Research Interests: <br /> High Performance Computing, Distributed Systems, Operating Systems, Storage Systems, Interaction between Systems and Machine Learning</h3>
@@ -217,8 +217,8 @@ while (!succeed) {
     </a> 
 </p> -->
 
-| <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rayandrew&show_icons=true&locale=en&layout=compact&langs_count=8&hide=html,objective-c" alt="rayandrew" /> | <img align="center" src="https://github-readme-stats.vercel.app/api?username=rayandrew&count_private=true&show_icons=true&locale=en" alt="rayandrew" /> |
-| ------------- | ------------- |
+<!-- | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rayandrew&show_icons=true&locale=en&layout=compact&langs_count=8&hide=html,objective-c" alt="rayandrew" /> | <img align="center" src="https://github-readme-stats.vercel.app/api?username=rayandrew&count_private=true&show_icons=true&locale=en" alt="rayandrew" /> |
+| ------------- | ------------- | -->
 
 <br />
 <br />
